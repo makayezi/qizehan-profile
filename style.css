@@ -1,0 +1,43 @@
+h1,h2 {
+	text-align: center;
+}
+
+
+h1 {
+	color: #53502b;
+	font-family: Jost;
+	font-weight: bold;
+	font-size: 60px;
+}
+
+body {
+	background-color: #EAEBE4;
+	font-family: Jost;
+	font-size: 35px;
+	text-align: center;
+}
+
+h2 {
+	color: #726a50;
+	font-weight: bold;
+	font-family: Jost;
+	font-size: 45px;
+
+}
+
+a:hover{
+	color: red;
+
+}
+
+.pic{
+	border-radius: 30%;
+	display: block;
+	margin: 0 auto;
+}
+
+.logo{
+	border-radius: 10%;
+	width: 60px;
+	height: auto;
+}
